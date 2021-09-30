@@ -1,2 +1,3 @@
 # VE370-p2-CPU
-project 2
+
+Single cycle and pipeline CPU implementation using `Verilog`.
